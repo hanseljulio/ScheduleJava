@@ -1,0 +1,6 @@
+|No|   Monday   |   Tuesday   |   Wednesday   |   Thursday   |   Friday   |
+|1 |MATH 20E    |-            |-              |-             |-           |  
+|2 |-           |-            |-              |-             |-           |  
+|3 |-           |-            |CSE 110        |-             |-           |  
+|4 |-           |-            |-              |-             |-           |  
+|5 |-           |-            |-              |-             |CSE 20L     |  
